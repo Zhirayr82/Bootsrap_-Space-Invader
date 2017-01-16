@@ -1,7 +1,28 @@
-.container {
-	width: 360px; 
-	}
 .invader-block{
-	height: 30px; 
+	height: 100px; 
+	background-color: #73fa4b;  
+	}
+
+/* Desktops */
+@media only screen and (max-width : 992px) {
+.invader-block{
+	height: 82px; 
+	background-color: #73fa4b;  
+	}
+}
+
+/* Tablets */
+@media only screen and (max-width : 768px) {
+.invader-block{
+	height: 64px; 
+	background-color: #73fa4b;  
+	}
+
+/* Phones */
+@media only screen and (max-width : 480px) {
+
+}
+.invader-block{
+	height: 40px; 
 	background-color: #73fa4b;  
 	}
