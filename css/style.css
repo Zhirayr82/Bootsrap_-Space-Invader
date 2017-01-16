@@ -17,12 +17,12 @@
 	height: 64px; 
 	background-color: #73fa4b;  
 	}
+}
 
 /* Phones */
 @media only screen and (max-width : 480px) {
-
-}
 .invader-block{
 	height: 40px; 
 	background-color: #73fa4b;  
 	}
+}
